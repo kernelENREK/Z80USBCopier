@@ -6,10 +6,10 @@ Public Class ProjectInstaller
     Public Sub New()
         MyBase.New()
 
-        'El Diseñador de componentes requiere esta llamada.
+        'Component Designer requires this call.
         InitializeComponent()
 
-        'Agregue el código de inicialización después de llamar a InitializeComponent
+        'Add the initialization code after calling InitializeComponent
 
     End Sub
 
